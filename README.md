@@ -3,6 +3,17 @@ The famous game of blocks
 
 This was just a little fun side project to kill some time, nothing serious. I don't plan on iterating a lot on this. Feel free to use it as inspiration or starting point for you own version.
 
+## TODO
+- [ ] Show score / stats next to play window
+- [ ] Add start / pause / reset buttons
+- [ ] Add coat of paint (CSS)
+- [ ] Tweak color palette
+
+Since this is just a hobby project with no stakeholders or anything, we can do anything:
+- [ ] Add unlockables? Maybe fun to be able to unlock colorpalettes or something
+- [ ] Tetrimino maker? Since the pieces is just a simple matrix in `pieces.js`, they could have any shape. Create your own tetris?
+- [ ] Have a good idea? Let me know!
+
 ## Credits
 Loosely based on @jonhoo's Tetris Tutorial. Uses [Colin Fahey's](http://colinfahey) [research on Tetris](http://www.colinfahey.com/tetris/tetris.html) as a source of the various equations (like calculating current level, score, and random piece).
 
