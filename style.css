@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+html {
+  font-family: 'BioRhyme', system-ui, sans-serif;
+}
+
+body {
+  padding: 1rem;
+}
+
+canvas {
+  border: 2px solid black;
+}
